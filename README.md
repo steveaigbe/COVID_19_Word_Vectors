@@ -1,5 +1,6 @@
 # COVID_19_Word_Vectors
 This repository provides the word embeddings learned from COVID-19 related Twitter datasets.
+The dataset can be downloaded from the following link - https://drive.google.com/drive/folders/1aYHR1_cYzElqs3NV3jaPBGFKep8WBUZG?usp=sharing
 
 The learned word embeddings have dimensions of 300.
 
