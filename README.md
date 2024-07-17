@@ -29,3 +29,5 @@ more_sentences = [
 model.build_vocab(more_sentences, update=True)
 
 model.train(more_sentences, total_examples=model.corpus_count, epochs=model.epochs)
+
+Click https://ieeexplore.ieee.org/abstract/document/9671817 to read the associated paper
